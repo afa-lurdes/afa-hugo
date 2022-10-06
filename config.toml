@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Afa Lurdes'
-theme = "hugo-serif"
+theme = "afa"
 
  [params.logo]
     mobile = "images/afa-logo.png"
@@ -29,11 +29,11 @@ theme = "hugo-serif"
     weight = 1
   [[menu.main]]
     name = "Commissió"
-    url = "/commissio"
+    url = "/services"
     weight = 2
   [[menu.main]]
     name = "Noticies"
-    url = "/news"
+    url = "/blog"
     weight = 3
   [[menu.main]]
     name = "Contacta'ns"
