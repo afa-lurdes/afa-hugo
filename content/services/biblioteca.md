@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
+title: "Biblioteca"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 5
+weight: 2
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Fomentar l’hàbit i el gust per la lectura. Conscienciar sobre la seva importància com a eina intel·lectual i emocional imprescindible en l’educació dels nostres fills.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

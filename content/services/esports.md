@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
+title: "esports"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 3
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Vetllar perquè totes les activitats tinguin un bon funcionament, en contacte continuat amb els coordinadors i aquests amb els monitors que gestionen cada una de les activitats.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
