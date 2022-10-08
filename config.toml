@@ -28,8 +28,8 @@ theme = "afa"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Commissió"
-    url = "/services"
+    name = "Commissions"
+    url = "/commissions"
     weight = 2
   [[menu.main]]
     name = "Noticies"
