@@ -7,7 +7,7 @@ theme = "afa"
     mobile = "images/afa-logo.png"
     mobile_height = "72px"
     desktop = "images/afa-logo.png"
-    desktop_height = "72px"
+    desktop_height = "130px"
     alt = "Serif - A Hugo Business Theme"
 
  [params.fonts]
