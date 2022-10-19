@@ -11,7 +11,7 @@
   {{ partial "google-fonts.html" . }}
 
   <!-- CSS-->
-  {{ $css_options := dict "targetPath" "css/style.css" "enableSourceMap" (not hugo.IsProduction) }}
+  {{ $css_options := dict "targetPath" "css/custom.css" "enableSourceMap" (not hugo.IsProduction) }}
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS $css_options }}
   {{ if hugo.IsProduction }}
     {{ $style = $style | minify | fingerprint }}

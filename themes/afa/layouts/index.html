@@ -44,7 +44,15 @@
     </div>
   </div>
 </div>
-
+<div class="strip" style="margin:0 4em 0 4em; padding:1em 0 1em 0;"  >
+  <div class="container col-sm-6">
+    <p>Ara ja som AFA</p>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe src="https://player.vimeo.com/video/486362891?h=d53aff208d&app_id=122963" width="426" height="240" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Ara ja som AFA. Reunió AMPA Escola Lurdes 2020"></iframe>
+    </div>
+  </div>
+  
+</div>
   {{ $services := where (where .Site.RegularPages "Type" "commissions") ".Params.featured" true }}
   {{if gt (len $services) 0}}
   <div class="strip">
