@@ -6,6 +6,8 @@ featured: true
 weight: 2
 description: Biblioteca
 ---
+&nbsp;
+
 Informació general de la Comissió:
 
 Objectius:
