@@ -19,16 +19,9 @@ A qui va dirigida: Adreçat a tots els alumnes des de P3 fins a 6è.
 * Coordinació amb l’equip directiu i professors de l’acadèmia que porta a terme aquesta activitat.
 * Comunicació directa amb les famílies.
 
-{{<figure src="/images/fotoKIds-300x187.png#floatleft" caption="Kids and Us" class="floatleft">}}
+{{<figure src="/images/fotoKIds-300x187.png#floatleft" caption="Kids and Us">}}
 
 Com a novetat: A partir d’aquest curs 22-23, Kids & Us serà qui s’encarregarà de fer les inscripcions i gestionar els cobraments
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 Qui forma la comissió: Cristina López.
 
