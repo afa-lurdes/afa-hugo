@@ -23,11 +23,7 @@ A qui va dirigida: Adreçat a tots els alumnes des de P3 fins a 6è.
 
 Com a novetat: A partir d’aquest curs 22-23, Kids & Us serà qui s’encarregarà de fer les inscripcions i gestionar els cobraments
 
-
-
-
-
-
+`test test tst`
 
 Qui forma la comissió: Cristina López.
 
