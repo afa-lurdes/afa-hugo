@@ -25,6 +25,10 @@ Com a novetat: A partir d’aquest curs 22-23, Kids & Us serà qui s’encarrega
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 Qui forma la comissió: Cristina López.
 
