@@ -1,8 +1,13 @@
 <div class="service service-summary">
   <div class="service-content">
-    <h2 class="service-title">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h2>
-    <p>{{ .Content | plainify | htmlUnescape | truncate (.Site.Params.services.summary_truncate | default 133 ) "..." }}</p>
-  </div>
+    <div class="card" style="width: 28rem;">
+      {{ if .Params.cover }}
+        <img class="card-img-top" src="{{ .Params.cover | relURL }}" alt="Card image cap">
+      {{end}}
+      <div class="card-body">
+        <h2>{{.Title}}</h2>
+        <p class="card-text">{{ .Content | plainify | htmlUnescape | truncate (.Site.Params.services.summary_truncate | default 133 ) "..." }}</p>
+      </div>
+    </div>
+  </div>  
 </div>

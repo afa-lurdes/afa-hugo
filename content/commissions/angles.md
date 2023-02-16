@@ -5,6 +5,8 @@ draft: false
 featured: true
 weight: 1
 description: Angles
+logo: /images/AFA_ANGLES_E-LURDES_marca-1024x452.png
+cover: /images/ingles.jpg
 ---
 L’objectiu és començar a impartir la seva metodologia a la nostra escola i, així, transmetre la seva passió per a la llengua anglesa. 
 

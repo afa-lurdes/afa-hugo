@@ -4,9 +4,9 @@ title = 'Afa Lurdes'
 theme = "afa"
 
  [params.logo]
-    mobile = "images/afa-logo.png"
+    mobile = "images/afa-logo.jpg"
     mobile_height = "72px"
-    desktop = "images/afa-logo.png"
+    desktop = "images/afa-logo.jpg"
     desktop_height = "130px"
     alt = "Serif - A Hugo Business Theme"
 

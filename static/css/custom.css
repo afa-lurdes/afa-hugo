@@ -12,3 +12,10 @@
     max-width: 100%;
 }
 
+.card {
+	flex-direction: row;
+  }
+  .card img {
+	width: 30%;
+  }
+

@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
+cover: /images/biblioteca_1.jpg
 description: Biblioteca
 ---
 &nbsp;

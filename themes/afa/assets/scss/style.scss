@@ -76,3 +76,16 @@ figure.floatleft {
   padding: 0 5px;
   margin: 2px 10px
 }
+
+.card {
+	flex-direction: row;
+}
+
+.card img {
+	width: auto;
+  height: auto;
+  max-width:110px;
+  max-height: 200px;
+  margin:4px;
+  
+}

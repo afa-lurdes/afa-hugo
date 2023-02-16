@@ -4,6 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 3
+cover: "images/NEN ESPORTS.jpg"
 ---
 
 Vetllar perquè totes les activitats tinguin un bon funcionament, en contacte continuat amb els coordinadors i aquests amb els monitors que gestionen cada una de les activitats.
