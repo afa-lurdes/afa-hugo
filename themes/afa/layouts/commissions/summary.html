@@ -8,7 +8,7 @@
         <h2 class="service-title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h2>
-        <p class="card-text">{ .Content | plainify | htmlUnescape | truncate (.Site.Params.services.summary_truncate | default 133 ) "..." }}</p>
+        <p class="card-text">{{ .Content | plainify | htmlUnescape | truncate (.Site.Params.services.summary_truncate | default 133 ) "..." }}</p>
       </div>
     </div>
   </div>  
