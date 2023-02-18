@@ -58,11 +58,11 @@
   <div class="strip">
     <div class="container pt-6 pb-6 pb-md-10">
       <h2>Las Commisions</h2><br/>
-      <div class="row justify-content-around">
+      <div class="row justify-content-begin">
        
    
         {{ range first 12 (sort $services ".Params.weight") }}
-        <div class="col-10 col-md-5 mb-1">
+        <div class="col-12 col-md-4 mb-2">
           {{ .Render "summary" }}
         </div>
         {{ end }}

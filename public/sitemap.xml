@@ -2,9 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/commissions/angles/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/biblioteca/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/esports/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/butlleti/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/genere/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/casals/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/colonies/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/conferencies/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/coral/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/dansa/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/excursions/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/cami_escolar/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2022-09-25T14:56:09+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2022-09-25-lets-talk-about-donors/</loc>
+    <lastmod>2022-09-25T14:56:09+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2022-09-25T14:56:09+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/2022-09-25-test-blog/</loc>
+    <lastmod>2022-09-25T14:54:42+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/commissions/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>

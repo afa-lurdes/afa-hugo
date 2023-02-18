@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Afa Lurdes</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Afa Lurdes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2022 14:56:09 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anglès</title>
+      <link>http://example.org/commissions/angles/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/angles/</guid>
+      <description>L’objectiu és començar a impartir la seva metodologia a la nostra escola i, així, transmetre la seva passió per a la llengua anglesa.
+Sempre d’acord amb els principis pedagògics, on l’aprenentatge es basa en el procés natural de l’adquisició de la llengua materna, un procés que te lloc amb un ordre determinat, natural i espontani.
+A qui va dirigida: Adreçat a tots els alumnes des de P3 fins a 6è.</description>
+    </item>
+    
+    <item>
+      <title>Biblioteca</title>
+      <link>http://example.org/commissions/biblioteca/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/biblioteca/</guid>
+      <description>Informació general de la Comissió:
+Objectius:
+ Fomentar l’hàbit i el gust per la lectura. Conscienciar sobre la seva importància com a eina intel·lectual i emocional imprescindible en l’educació dels nostres fills. Organitzar activitats relacionades amb els llibres fora de l’horari escolar, per a les famílies i els infants. Ajudar l’escola en tasques puntuals de manteniment de la biblioteca, com el folrat o l’etiquetatge de llibres.  A qui va dirigit: A tota la comunitat escolar (famílies, infants i equip de mestres)</description>
+    </item>
+    
+    <item>
+      <title>Esports</title>
+      <link>http://example.org/commissions/esports/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/esports/</guid>
+      <description>Vetllar perquè totes les activitats tinguin un bon funcionament, en contacte continuat amb els coordinadors i aquests amb els monitors que gestionen cada una de les activitats.
+Objectives Financial accounting and financial reporting are often used as synonyms.
+ According to International Financial Reporting Standards: the objective of financial reporting is: To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.</description>
+    </item>
+    
+    <item>
+      <title>Butlletí</title>
+      <link>http://example.org/commissions/butlleti/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/butlleti/</guid>
+      <description>Fomentar la comunicació entre famílies i escola.</description>
+    </item>
+    
+    <item>
+      <title>Gènere</title>
+      <link>http://example.org/commissions/genere/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/genere/</guid>
+      <description>Promoure la igualtat de gènere a la comunitat educativa, mitjançant diverses activitats i accions de sensibilització que es desenvoluparan al llarg del curs i de les quals se us informarà puntualment.</description>
+    </item>
+    
+    <item>
+      <title>Casals Estiu</title>
+      <link>http://example.org/commissions/casals/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/casals/</guid>
+      <description>Lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Colònies</title>
+      <link>http://example.org/commissions/colonies/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/colonies/</guid>
+      <description>Crear un espai de convivència dels alumnes fora de l’espai escolar, on es poden conèixer millor ells mateixos i passar-s’ho bé tot gaudint de la natura.</description>
+    </item>
+    
+    <item>
+      <title>Conferències</title>
+      <link>http://example.org/commissions/conferencies/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/conferencies/</guid>
+      <description>Facilitar eines que ens puguin ajudar en el desenvolupament de la responsabilitat educativa dels fills i filles, mitjançant xerrades d’experts i l’organització de grups de debat que permeten crear un espai per a la reflexió conjunta entre pares i mestres de l’escola.</description>
+    </item>
+    
+    <item>
+      <title>Coral</title>
+      <link>http://example.org/commissions/coral/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/coral/</guid>
+      <description>El Cor la Fontana és la coral d’adults de l’Escola. Hi cantem, amb molt de goig, pares, mares, avis, tiets,… dels nens i nenes d’ara o dels nens i nenes que han passat per l’Escola</description>
+    </item>
+    
+    <item>
+      <title>Dansa</title>
+      <link>http://example.org/commissions/dansa/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/dansa/</guid>
+      <description>Ajudar els nens i nenes a descobrir les possibilitats del cos i del moviment i apropar l’experiència de la dansa com a forma d’expressió i de creació personal.</description>
+    </item>
+    
+    <item>
+      <title>Excursions</title>
+      <link>http://example.org/commissions/excursions/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/excursions/</guid>
+      <description>Organitzar una excursió d’un dia amb l’objectiu de fomentar de convivència entre les famílies de la nostra escola.</description>
+    </item>
+    
+    <item>
+      <title>Camí Escolar</title>
+      <link>http://example.org/commissions/cami_escolar/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://example.org/commissions/cami_escolar/</guid>
+      <description>Crear un camí adaptat i segur per a que els alumnes vagin a l’escola.</description>
+    </item>
+    
+    <item>
+      <title>Noticia 1</title>
+      <link>http://example.org/blog/2022-09-25-lets-talk-about-donors/</link>
+      <pubDate>Sun, 25 Sep 2022 14:56:09 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2022-09-25-lets-talk-about-donors/</guid>
+      <description>Lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Noticia 2</title>
+      <link>http://example.org/blog/2022-09-25-test-blog/</link>
+      <pubDate>Sun, 25 Sep 2022 14:54:42 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2022-09-25-test-blog/</guid>
+      <description>Lorem ipsum</description>
+    </item>
+    
   </channel>
 </rss>

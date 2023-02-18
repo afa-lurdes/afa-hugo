@@ -78,14 +78,8 @@ figure.floatleft {
 }
 
 .card {
-	flex-direction: row;
+  min-height: 230px;
 }
-
-.card img {
-	width: auto;
-  height: auto;
-  max-width:110px;
-  max-height: 200px;
-  margin:4px;
-  
+.service-title  {
+  text-align: center
 }
