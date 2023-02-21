@@ -1,5 +1,7 @@
 // Colors
 $primary: {{ .Site.Params.colors.primary | default "#f24088" }};
+$secondary: {{ .Site.Params.colors.secondary | default "#000" }};
+
 $black: {{ .Site.Params.colors.black | default "#2f2f41" }};
 $white: {{ .Site.Params.colors.white | default "#ffffff" }};
 $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
@@ -82,4 +84,13 @@ figure.floatleft {
 }
 .service-title  {
   text-align: center
+}
+
+.header {
+  background-color: $primary;
+}
+
+.main-menu > ul > li > a {
+  color: $secondary !important;
+  font-size: 18px;
 }

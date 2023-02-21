@@ -4,11 +4,11 @@ title = 'Afa Lurdes'
 theme = "afa"
 
  [params.logo]
-    mobile = "images/afa-logo.jpg"
+    mobile = "images/afa_logo.png"
     mobile_height = "72px"
-    desktop = "images/afa-logo.jpg"
+    desktop = "images/afa_logo.png"
     desktop_height = "130px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Afa Lurdes"
 
  [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -17,7 +17,8 @@ theme = "afa"
     base = "Montserrat"
 
 [params.colors]
-    primary = "#0046ae"
+    primary = "#ff9070"
+    secondary = "#fff"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#efefef"
