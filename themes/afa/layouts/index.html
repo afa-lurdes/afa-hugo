@@ -57,7 +57,7 @@
   {{if gt (len $services) 0}}
   <div class="strip">
     <div class="container pt-6 pb-6 pb-md-10">
-      <h2>Las Commisions</h2><br/>
+      <h2>Les Comissions</h2><br/>
       <div class="row justify-content-begin">
        
    
@@ -79,13 +79,13 @@
     <div class="row justify-content-center">
       {{range $index, $post := $news }}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
+        <div class="card">
           {{ if $post.Params.image }}
-          <div class="feature-image"><img width="100" height="100" alt="{{ $post.Params.Title }} logo"
-              src="{{ $post.Params.image | relURL }}" /></div>
+          <img class="card-img-top"  alt="{{ $post.Params.Title }} logo"
+              src="{{ $post.Params.image | relURL }}" />
           {{ end }}
-          <h2 class="feature-title"><a href="{{ $post.RelPermalink }}">{{ $post.Params.Title }}</a></h2>
-          <div class="feature-content">
+          <h2 class="card-title"><a href="{{ $post.RelPermalink }}">{{ $post.Params.Title }}</a></h2>
+          <div class="card-text">
             <p>{{$post.Params.Description}}</p>
           </div>
         </div>

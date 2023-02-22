@@ -5,10 +5,16 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-10">
       <div class="service service-single">
-        {{ if ne .Title ""}}
-        <h3 class="title">{{.Title}}</h1>
-        {{ end }}
-        <div class="content">{{.Content}}</div>
+        
+        <img style="height: 280px;" src="{{ .Params.logo | relURL }}">
+        
+        <div class="service-content">
+            <p>{{.Content}}</p>
+            <img style="height: 280px;" src="{{ .Params.cover | relURL }}">
+          
+        </div>
+        
+        
       </div>
     </div>
   </div>

@@ -33,7 +33,7 @@ theme = "afa"
     url = "/commissions"
     weight = 2
   [[menu.main]]
-    name = "Noticies"
+    name = "Notícies"
     url = "/blog"
     weight = 3
   [[menu.main]]

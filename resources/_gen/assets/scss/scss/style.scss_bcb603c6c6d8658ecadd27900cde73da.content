@@ -13002,11 +13002,28 @@ figure.floatleft {
   padding: 0 5px;
   margin: 2px 10px; }
 
-.card {
-  min-height: 230px; }
-
 .service-title {
   text-align: center; }
+
+.service-header {
+  padding: 1em;
+  margin-bottom: 14px; }
+
+.service .service-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; }
+
+.image > img {
+  display: block;
+  max-width: 100%;
+  max-height: 300px; }
+
+.service .service-content > p {
+  line-height: 1.4em;
+  font-size: 1.3rem;
+  text-align: justify;
+  text-justify: auto; }
 
 .header {
   background-color: #ff9070; }
@@ -13014,5 +13031,10 @@ figure.floatleft {
 .main-menu > ul > li > a {
   color: #fff !important;
   font-size: 18px; }
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover; }
 
 /*# sourceMappingURL=style.css.map */
