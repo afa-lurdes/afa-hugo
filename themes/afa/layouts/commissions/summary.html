@@ -4,7 +4,7 @@
       {{ if .Params.cover }}
         <img class="feature-image" style="width:auto;height:15em" src="{{ .Params.cover | relURL }}" alt="Card image cap">
       {{end}}
-      <div class="card-body h-100">
+      <div style="width:240px "class="card-body h-100">
         <h2 class="service-title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h2>
