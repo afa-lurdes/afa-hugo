@@ -16,14 +16,18 @@
       </div>
       {{ end }}
     </div>
+    <div class="col-12 pt-6 pb-6">
+      <div class="row justify-content-begin">
+        <div class="col-sm-3 col-md-6 col-12">
+        {{ range .Pages.ByWeight }}
+        {{ .Render "summary" }}
+        {{ end }}
+      </div>
+      </div>
+    </div>
   </div>
+  
 </div>
 
-<div class="container pt-6 pb-6">
-  <div class="row">
-    {{ range .Pages.ByWeight }}
-    <div class="col-12 col-md-6 mb-3">{{ .Render "summary" }}</div>
-    {{ end }}
-  </div>
-</div>
+
 {{ end }}

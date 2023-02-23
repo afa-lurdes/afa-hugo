@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Afa Lurdes'
 theme = "afa"
 
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
+
  [params.logo]
     mobile = "images/afa_logo.png"
     mobile_height = "72px"

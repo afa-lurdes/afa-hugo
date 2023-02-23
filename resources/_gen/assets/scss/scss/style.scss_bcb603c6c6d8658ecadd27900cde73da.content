@@ -13030,4 +13030,22 @@ figure.floatleft {
 .btn.service-link {
   margin: 0px 4px 0px 0px; }
 
+.car-container {
+  margin: 1em 0px 3em 0; }
+
+.horari table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529; }
+  .horari table th,
+  .horari table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6; }
+  .horari table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6; }
+  .horari table tbody + tbody {
+    border-top: 2px solid #dee2e6; }
+
 /*# sourceMappingURL=style.css.map */
