@@ -1,0 +1,30 @@
+<!--
+lightSlider + lightGallery hugo integration
+Params:
+    name:       css #id of your slider
+    url:        path or url of your slider.json
+    includejs:  add a jquery.min.js, lightGallery.min.js and jquery.lightSlider.min.js include.
+Creates a lightSlider on your page, call it with: {{/*
+    {{% lightslider name="<your-slider-name>" url="<url_or_path-to-your-slider.json" [includejs="true"] %}}
+*/}}
+Example: {{/*
+    {{% lightslider name="post_pcengines_apu1d4_slider1" url="data/post/pcengines_apu1d4.json" includejs="true" %}}
+*/}}
+-->
+{{ with .Get "url" }}
+    {{ $url := . }}
+    {{ with $.Get "name" }}
+        {{ $name := . }}
+        <div id="{{ $name }}" class="row justify-content-center">
+        {{ $data := getJSON $url }}
+        {{ range $data.additional_links }}
+            {{ $item := . }}
+            <a class="btn btn-primary service-link" href="{{$item.url}}">{{$item.label}}</a>
+                
+            
+        {{ end }}
+        </ul>
+
+        
+    {{ end }}
+{{ end }}

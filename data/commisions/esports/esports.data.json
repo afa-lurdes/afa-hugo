@@ -1,0 +1,14 @@
+{
+  "contact": "email",
+  "additional_links": [
+  {
+      "label":"Equip de monitors",
+      "url" :"/commissions/esports/monitores"
+  },
+
+  {
+      "label":"Activitats, horaris i quotes",
+      "url" :"/commissions/esports/timetable"
+  }
+  ]
+}

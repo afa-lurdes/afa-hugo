@@ -2,22 +2,24 @@
 
 {{ define "main" }}
 <div class="container pb-6 pt-2 pt-md-2 pb-md-10">
-  <div class="row justify-content-start">
+  
     <div class="col-12 col-md-10">
       <div class="service service-single">
-        
+        {{ if .Params.logo}}
         <img style="height: 280px;" src="{{ .Params.logo | relURL }}">
-        
+        {{end}}
         <div class="service-content">
             <p>{{.Content}}</p>
-            <img style="height: 280px;" src="{{ .Params.cover | relURL }}">
-          
         </div>
-        
-        
+        {{ if .Params.carousel}}
+          <div class="car-container">
+          {{ partial "carousel" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000")  }}
+        </div>
+          {{ end }}
+
       </div>
     </div>
-  </div>
+  
 </div>
 {{ end }}
 
