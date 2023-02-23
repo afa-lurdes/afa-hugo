@@ -19,10 +19,13 @@
     <div class="row justify-content-center">
        
    
-      {{ range .Pages.ByWeight  }}
-      <div class="col-12 col-md-4 mb-2">
-        {{ .Render "summary" }}
-      </div>
+      
+      {{range .Pages.ByWeight }}
+      {{ if (not (isset .Params "subpage")) | or (eq .Params "subpage" false) }}
+          <div class="col-12 col-md-4 mb-2">
+            {{ .Render "summary"  }}
+          </div>
+      {{ end }}
       {{ end }}
     </div>
   </div>

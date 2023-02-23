@@ -1,6 +1,7 @@
 ---
 tag: none
 title: Monitors
+subpage: true
 ---
 
 # Equip de monitors

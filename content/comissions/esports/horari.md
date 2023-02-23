@@ -1,6 +1,7 @@
 ---
 tag: none
 title: Horari
+subpage: true
 ---
 
 # Horari 
