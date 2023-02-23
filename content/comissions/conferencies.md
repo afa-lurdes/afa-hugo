@@ -3,6 +3,7 @@ title: "Conferències"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
+tag: conferencies
 weight: 8
 cover: "images/CONFERENCIES_1.jpg"
 ---

@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 1
 carousel: true
-
+tag: english
 intro_image_absolute: false
 description: Angles
 logo: /images/AFA_ANGLES_E-LURDES_marca-1024x452.png

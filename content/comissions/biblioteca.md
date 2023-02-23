@@ -4,8 +4,10 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
+logo: /images/biblioteca_1.jpg
 cover: /images/biblioteca_1.jpg
 description: Biblioteca
+tag: library
 
 ---
 Fomentar l’hàbit i el gust per la lectura. Conscienciar sobre la seva importància com a eina intel·lectual i emocional imprescindible en l’educació dels nostres fills.
