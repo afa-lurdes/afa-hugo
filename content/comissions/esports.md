@@ -6,7 +6,7 @@ featured: true
 weight: 3
 tag: sports
 cover: "images/NEN ESPORTS.jpg"
-logo: /images/AFA_ESPORTS-I-DANSA_E-LURDES_marca-1024x452.png
+logo: /images/logos/AFA_ESPORTS I DANSA_E LURDES_marca.jpg
 carousel: true
 resources:
  - url: /images/carousel/esports/DSC04779.Dimecres.Futbol4.JPG

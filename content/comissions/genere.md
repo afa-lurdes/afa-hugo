@@ -5,6 +5,7 @@ draft: false
 featured: true
 weight: 5
 tag: gender
+logo: /images/logos/AFA_GENERE_E LURDES_marca.jpg
 cover: "images/biblioteca_1.jpg"
 ---
 

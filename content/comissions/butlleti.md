@@ -6,8 +6,7 @@ featured: true
 tag: journal
 weight: 4
 cover: "images/NEN BUTLLETI.jpg"
+logo: images/logos/AFA_BUTLLETI_E LURDES_marca.jpg
 ---
 
 Fomentar la comunicació entre famílies i escola.
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)

@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
-logo: /images/biblioteca_1.jpg
+logo: /images/logos/AFA_BIBLIOTECA_E LURDES_marca.jpg
 cover: /images/biblioteca_1.jpg
 description: Biblioteca
 tag: library

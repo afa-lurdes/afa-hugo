@@ -8,7 +8,7 @@ carousel: true
 tag: english
 intro_image_absolute: false
 description: Angles
-logo: /images/AFA_ANGLES_E-LURDES_marca-1024x452.png
+logo: /images/logos/AFA_ANGLES_E LURDES_marca.jpg
 cover: /images/ingles.jpg
   
 ---
