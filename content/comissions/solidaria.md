@@ -20,10 +20,8 @@ resources:
 ---
 
 Organitza projectes de caire solidari amb l’ Escola, como el Recapte d’ aliments al Nadal,
-Paradeta de Sant Jordi amb la venda de llibres reutilitzats i artesania de “Cucharitas Solidarias
-“, amb l’objectiu de fomentar als alumnes i les seves famílies l‘ esperit d’ajuda als altres. El
-principal objectiu es recaptant diners pel programa APADRINA LURDES de l’ AFA, a través de
-donacions econòmiques voluntàries perquè tots els nens i nenes de l’ escola que ho necessitin
-puguin gaudir d’ajudes per material, menjador i excursions escolars.
+Paradeta de Sant Jordi amb la venda de llibres reutilitzats i artesania de “Cucharitas Solidarias“, amb l’objectiu de fomentar als alumnes i les seves famílies l‘ esperit d’ajuda als altres. El principal objectiu es recaptant diners pel programa APADRINA LURDES de l’ AFA, a través de donacions econòmiques voluntàries perquè tots els nens i nenes de l’ escola que ho necessitin puguin gaudir d’ajudes per material, menjador i excursions escolars.
+
+
 
 {{< additional-links name="solidaria" url="data/commisions/solidaria/solidaria.data.json" includejs="true" >}}
