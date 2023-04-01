@@ -36,6 +36,9 @@
   @include transition($carousel-transition);
 }
 
+  .carousel-item img {
+      height: 500px;
+    }
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {

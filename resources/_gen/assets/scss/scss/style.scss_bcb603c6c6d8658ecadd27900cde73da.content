@@ -8461,6 +8461,9 @@ a.close.disabled {
   @media (prefers-reduced-motion: reduce) {
     .carousel-item {
       transition: none; } }
+.carousel-item img {
+  height: 500px; }
+
 .carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -13033,19 +13036,45 @@ figure.floatleft {
 .car-container {
   margin: 1em 0px 3em 0; }
 
-.horari table {
-  width: 100%;
+.horari {
   margin-bottom: 1rem;
   color: #212529; }
-  .horari table th,
-  .horari table td {
-    padding: 0.75rem;
+  .horari td {
     vertical-align: top;
-    border-top: 1px solid #dee2e6; }
-  .horari table thead th {
+    border: 4px solid white;
+    padding: 8px; }
+  .horari td.yellow {
+    background-color: #F7E4D0; }
+  .horari td.red {
+    background-color: #DD7D6B; }
+  .horari td.dark-blue {
+    background-color: #6AA8F1; }
+  .horari td.light-blue {
+    background-color: #A4C2F4; }
+  .horari td.light-purple {
+    background-color: #B4A7D5; }
+  .horari td.light-green {
+    background-color: #B6D7A8; }
+  .horari td.dark-yellow {
+    background-color: #F2CC87; }
+  .horari td.pink {
+    background-color: #EBD1DC; }
+  .horari td.grey {
+    background-color: #B6D7A8; }
+  .horari thead tr:first-child td:first-child {
+    background-color: white;
+    color: #ff9070; }
+  .horari thead td {
+    background-color: #ff9070;
+    color: white;
+    font-size: 23px;
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6; }
-  .horari table tbody + tbody {
-    border-top: 2px solid #dee2e6; }
+    text-align: center; }
+  .horari tbody tr td.first {
+    background-color: white;
+    color: #ff9070;
+    font-size: 18px;
+    text-align: right;
+    font-weight: bolder; }
 
 /*# sourceMappingURL=style.css.map */

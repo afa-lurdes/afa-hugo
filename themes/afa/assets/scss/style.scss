@@ -118,25 +118,68 @@ figure.floatleft {
   margin:1em 0px 3em 0;
 }
 
-.horari table {
-  width: 100%;
+.horari  {
   margin-bottom: $spacer;
   color: $table-color;
   background-color: $table-bg; // Reset for nesting within parents with `background-color`.
 
-  th,
-  td {
-    padding: $table-cell-padding;
+  td
+  {
     vertical-align: top;
-    border-top: $table-border-width solid $table-border-color;
+    border: 4px solid white;
+    padding:8px;
   }
 
-  thead th {
+  td.yellow {
+    background-color:#F7E4D0;
+  }
+  td.red {
+    background-color: #DD7D6B;
+  }
+  td.dark-blue {
+    background-color: #6AA8F1;
+  }
+  td.light-blue {
+    background-color: #A4C2F4;
+  }
+  td.light-purple {
+    background-color: #B4A7D5;
+  }
+  td.light-green {
+    background-color: #B6D7A8;
+  }
+  td.dark-yellow {
+    background-color: #F2CC87
+  }
+  td.pink {
+    background-color: #EBD1DC
+  }
+
+  td.grey {
+    background-color: #B6D7A8
+  }
+  
+  
+  thead tr:first-child td:first-child {
+    background-color: white;
+    color: $primary
+    
+  }
+  thead td {
+    background-color: $primary;
+    color: white;
+    font-size: 23px;
     vertical-align: bottom;
-    border-bottom: (2 * $table-border-width) solid $table-border-color;
+    text-align: center;
+  }
+  tbody tr td.first {
+    background-color: white;
+    color: $primary;
+    font-size:18px;
+    text-align:right;
+    font-weight: bolder;
+    
   }
 
-  tbody + tbody {
-    border-top: (2 * $table-border-width) solid $table-border-color;
-  }
+  
 }
