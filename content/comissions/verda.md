@@ -7,7 +7,7 @@ tag: eco
 weight: 13
 cover: "images/NEN VERDA.png"
 logo: "/images/logos/AFA_VERDA_E-LURDES_marca-1024x452.png"
-carousel: false
+carousel: true
 resources:
  - url: "/images/carousel/verda/Pagina principal ComVerda 1.jpg"
  - url: "/images/carousel/verda/Pagina principal ComVerda 2.jpg"
