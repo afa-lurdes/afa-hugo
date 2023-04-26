@@ -16,13 +16,8 @@ resources:
 
 ---
 
-A la Comissió Verda impulsem iniciatives per encaminar l’Escola cap a un model més sa i
-sostenible. Des de la seva creació al 2017, la comissió s’ha centrat en fomentar un camí escolar més actiu, saludable i segur per als nostres infants. Això ho hem aconseguit juntament amb l’Escola i el Districte amb els programes de Camí Escolar i la implantació del carnet Kangoo per a fer seguiment de l’accés dels infants a partir de 8 anys (2020), Protegim les Escoles (pacificació del carrer Lincoln, 2021) i la millora de l’accés per Via Augusta mitjançant una proposta guanyadora als pressupostos participatius (2022).
-
-Ens preocupem per reduir els consum i els residus a través dels programes de reutilització de llibres i roba de l’escola.
-
-I participem en altres projectes relacionats amb la salut i la sostenibilitat com per exemple
-“Menjadors escolars més sans i sostenibles”.
-
-Estem obertes a propostes i donem la benvinguda a noves idees per a fer de l’Escola Lurdes una escola cada cop més Verda!
+Encaminar l’escola cap a un model més sa i sostenible. Aquesta és la missió de la Comissió Verda, creada el 2017, i que des de llavors s’ha centrat en fomentar un camí escolar més actiu, saludable i segur per als nostres infants.
+Una fita que s’ha aconseguit conjuntament amb l’escola Lurdes i amb el Districte, a través de programes com el Camí Escolar o la implementació del carnet Kangoo per fer seguiment de l’accés dels infants a partir de 8 anys (2020). També destaquen el projecte Protegim les Escoles (la pacificació del carrer Lincoln, el 2021) i la millora de l’accés per Via Augusta (mitjançant una proposta guanyadora als pressupostos participatius, el 2022).
+R
+eduir el consum i els residus a través dels programe sde reutilització de llibres i roba d’escola és una altra de les preocupacions de la Comissió Verda, així com altres projectes relacionats amb la salut i la sostenibilitat, com per exemple els Menjadors escolars més sans i sostenibles.
 

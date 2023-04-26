@@ -19,8 +19,9 @@ resources:
   - url: /images/carousel/solidaria/Screenshot_20220327-231541_Chrome.jpg
 ---
 
-Organitza projectes de caire solidari amb l’ Escola, como el Recapte d’ aliments al Nadal,
-Paradeta de Sant Jordi amb la venda de llibres reutilitzats i artesania de “Cucharitas Solidarias“, amb l’objectiu de fomentar als alumnes i les seves famílies l‘ esperit d’ajuda als altres. El principal objectiu es recaptant diners pel programa APADRINA LURDES de l’ AFA, a través de donacions econòmiques voluntàries perquè tots els nens i nenes de l’ escola que ho necessitin puguin gaudir d’ajudes per material, menjador i excursions escolars.
+Com el seu nom indica, la Comissió Solidària té per objectiu aquells projectes que busquen ajudar els que més ho necessiten, i que s’organitzen conjuntament amb l’escola Lurdes. Un dels més destacats és el Recapte d’Aliments per Nadal. També destaca la paradeta de Sant Jordi amb la venda de llibres reutilitzats, o l’artesania de Cucharitas Solidarias, amb la intenció de fomentar l‘esperit d’ajuda als altres tant als alumnes com a les seves famílies.
+Un dels grans objectius de la Comissió Solidària és el programa Apadrina Lurdes, de l’AFA. Una iniciativa que busca aconseguir aportacions econòmiques durant el curs escolar per tal que, tots els nens i nenes de la nostra escola que no necessitin, puguin tenir les mateixes oportunitats de formació i desenvolupament.
+
 
 
 {{< additional-links name="solidaria" url="data/commisions/solidaria/solidaria.data.json" includejs="true" >}}

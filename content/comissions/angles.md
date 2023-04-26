@@ -12,9 +12,10 @@ logo: /images/logos/AFA_ANGLES_E LURDES_marca.jpg
 cover: /images/ingles.jpg
   
 ---
-L’objectiu és començar a impartir la seva metodologia a la nostra escola i, així, transmetre la seva passió per a la llengua anglesa. 
-Sempre d’acord amb els principis pedagògics, on l’aprenentatge es basa en el procés natural de l’adquisició de la llengua materna, un procés que te lloc amb un ordre determinat, natural i espontani.
-A qui va dirigida: Adreçat a tots els alumnes des de P3 fins a 6è.
+Aconseguir que l’alumnat de l’escola Lurdes aprengui anglès de manera natural, aprofitant els seus recursos innats. Aquest és l’objectiu de Kids&Us Gràcia, que s’encarrega d’oferir l’activitat extraescolar d’anglès.
+Es tracta que els infants tinguin un contacte amb l’anglès real des del primer dia, sense adaptacions ni omissions, per tal que el seu aprenentatge sigui global. És a dir, que siguin capaços de comunicar-se, tinguin una bona pronunciació i desenvolupin una bona comprensió.
+En resum, que aprenguin amb una dosi perfecta d'anglès i diversió.
+
 
 
 |          |               |
