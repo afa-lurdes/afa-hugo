@@ -1,6 +1,6 @@
 ---
 title: 'Noticies'
-description: 'We offer a range of services to help your business'
+description: 'Noticies Afa Lurdes'
 image: "images/Infografia-Afa-1024x724.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
