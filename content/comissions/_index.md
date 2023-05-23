@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 
 # Comissions
 
-L’AMPA organitza les seves activitats en grups de treball anomenats “Comissions”.
+L'AFA organitza les seves activitats en grups de treball anomenats “Comissions”.
 
 Si voleu col·laborar amb alguna Comissió, podeu contactar directament amb els responsables de la comissió corresponent, podeu trobar els emails clicant a la pàgina Contacta’ns.
 
