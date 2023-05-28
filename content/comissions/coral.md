@@ -7,6 +7,9 @@ weight: 9
 tag: choir
 cover: "images/covers/CORAL.jpg"
 logo: "/images/logos/AFA_CORAL_E LURDES_marca.jpg"
+carousel: true
+resources:
+- url: "/images/carousel/coral/Cor-la-fontana.jpg"
 
 ---
 

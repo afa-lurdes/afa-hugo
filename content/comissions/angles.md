@@ -10,7 +10,12 @@ intro_image_absolute: false
 description: Angles
 logo: /images/logos/AFA_ANGLES_E LURDES_marca.jpg
 cover: /images/covers/ANGLES.jpg
-  
+carousel: true
+resources:
+- url: "/images/carousel/angles/angles1.jpeg"
+- url: "/images/carousel/angles/angles2.jpeg"
+- url: "/images/carousel/angles/angles3.jpeg"
+- url: "/images/carousel/angles/angles5.jpeg" 
 ---
 Aconseguir que l’alumnat de l’escola Lurdes aprengui anglès de manera natural, aprofitant els seus recursos innats. Aquest és l’objectiu de Kids&Us Gràcia, que s’encarrega d’oferir l’activitat extraescolar d’anglès.
 Es tracta que els infants tinguin un contacte amb l’anglès real des del primer dia, sense adaptacions ni omissions, per tal que el seu aprenentatge sigui global. És a dir, que siguin capaços de comunicar-se, tinguin una bona pronunciació i desenvolupin una bona comprensió.
