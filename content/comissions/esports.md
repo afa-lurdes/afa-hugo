@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 3
 tag: sports
-cover: "images/NEN ESPORTS.jpg"
+cover: "images/covers/ESPORTS.jpg"
 logo: /images/logos/AFA_ESPORTS I DANSA_E LURDES_marca.jpg
 carousel: true
 resources:
@@ -24,6 +24,12 @@ La comissió d’esports i dansa de l’AFA s’ocupa de l’organització de le
 Està formada per un grup de mares i pares
 voluntaris, un equip de coordinació d’esports pel dia a dia i una vintena de monitors i monitores per a totes les de totes les activitats. Totes elles es realitzen a l’escola amb l’excepció de Natació. La comissió també s’ocupa de l’organització de la Setmana Esportiva que té lloc cada any a l’escola durant la primavera.
 
+Contacte:
+
+- [comissió pares i mares](mailto:esports@escolalurdes.cat)
+- [coordinadors extraescolars](mailto:coordinacioesports@escolalurdes.cat) 
+
+<br/>
 {{< additional-links name="esports" url="data/commisions/esports/esports.data.json" includejs="true" >}}
 
 

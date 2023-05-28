@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 2
 logo: /images/logos/AFA_BIBLIOTECA_E LURDES_marca.jpg
-cover: /images/biblioteca_1.jpg
+cover: /images/covers/BIBLIOTECA.jpg
 description: Biblioteca
 tag: library
 
@@ -14,3 +14,4 @@ Fomentar l’hàbit i el gust per la lectura és la missió d’aquesta comissi�
 
 I això ho fa organitzant activitats relacionades amb els llibres fora de l’horari escolar, per a les famílies i els infants com són: la “Biblioteca Oberta” (d’obren les portes de la biblioteca de Lurdes a les famílies diferents dies de l’any), el “Cafè i llibres” (xerrades amb algun expert en Literatura Infantil i Juvenil), “Contes del Món” (conta-contes dut a terme per pares o mares de l’escola procedents d’altres països), o el “Grup de folrat de llibres”.
 
+Contacte: [bibliotecaafa@escolalurdes.cat](mailto:bibliotecaafa@escolalurdes.cat)

@@ -9,7 +9,7 @@ tag: english
 intro_image_absolute: false
 description: Angles
 logo: /images/logos/AFA_ANGLES_E LURDES_marca.jpg
-cover: /images/ingles.jpg
+cover: /images/covers/ANGLES.jpg
   
 ---
 Aconseguir que l’alumnat de l’escola Lurdes aprengui anglès de manera natural, aprofitant els seus recursos innats. Aquest és l’objectiu de Kids&Us Gràcia, que s’encarrega d’oferir l’activitat extraescolar d’anglès.
@@ -25,3 +25,5 @@ En resum, que aprenguin amb una dosi perfecta d'anglès i diversió.
 | {{<figure src="/images/commissions/2023/angles/john.jpeg" width="250px" >}} | John: Profesor Kids. Grupos Pam&Paul - Ben&Brenda |
 | {{<figure src="/images/commissions/2023/angles/paula.jpeg" width="250px" >}} | Paula: Profesora Kids. Grupo Marcia |
 | {{<figure src="/images/commissions/2023/angles/maguie.jpeg" width="250px" >}} | Maguie: Coordinadora Extraescolares. Profesora Kids grupo Marcia. |
+
+Contacte: [angles@escolalurdes.cat](mailto:angles@escolalurdes.cat)

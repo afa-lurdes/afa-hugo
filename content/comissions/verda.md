@@ -5,7 +5,7 @@ draft: false
 featured: true
 tag: eco
 weight: 13
-cover: "images/NEN VERDA.png"
+cover: "images/covers/VERDA.png"
 logo: "/images/logos/AFA_VERDA_E-LURDES_marca-1024x452.png"
 carousel: true
 resources:
@@ -23,3 +23,6 @@ Una fita que s’ha aconseguit conjuntament amb l’escola Lurdes i amb el Distr
 
 Reduir el consum i els residus a través dels programe sde reutilització de llibres i roba d’escola és una altra de les preocupacions de la Comissió Verda, així com altres projectes relacionats amb la salut i la sostenibilitat, com per exemple els Menjadors escolars més sans i sostenibles.
 
+Contacte: 
+- [comissióverda@escolalurdes.cat](mailto:comissioverda@escolalurdes.cat)
+- [kangoo](mailto:kangoo@escolalurdes.cat)

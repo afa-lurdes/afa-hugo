@@ -4,8 +4,8 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
-logo: /images/logos/AFA_BIBLIOTECA_E LURDES_marca.jpg
-cover: /images/biblioteca_1.jpg
+logo: /images/logos/AFA_FORMA GRUP REF_E LURDES_marca.jpg
+cover: /images/covers/REFLEXIO.jpg
 description: Grup de Reflexió
 tag: pray
 
@@ -16,3 +16,4 @@ El Grup de Reflexió es reuneix quatre vegades al llarg del curs i compta amb la
 
 Al seu torn, el Grup d’Interiorització es troba regularment per conrear la dimensió més pregona de l’ésser humà: la interioritat. Aquest curs es fa de manera setmanal, durant un trimestre, acompanyats i guiats per la Comunitat Filipense de l’escola.
 
+Contacte: [grupreflexio@escolalurdes.cat](mailto:grupreflexio@escolalurdes.cat)

@@ -5,7 +5,7 @@ draft: false
 featured: true
 tag: solidaria
 weight: 6
-cover: "images/NEN SOLIIDARIA.jpg"
+cover: "images/covers/SOLIDARIA.jpg"
 logo: images/AFA_SOLIDARIA_E-LURDES_marca-1024x452.png
 carousel: true
 resources:
@@ -25,3 +25,5 @@ Un dels grans objectius de la Comissió Solidària és el programa Apadrina Lurd
 
 
 {{< additional-links name="solidaria" url="data/commisions/solidaria/solidaria.data.json" includejs="true" >}}
+
+Contacte: [solidaria@escolalurdes.cat](mailto:solidaria@escolalurdes.cat)

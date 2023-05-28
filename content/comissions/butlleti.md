@@ -5,7 +5,7 @@ draft: false
 featured: true
 tag: journal
 weight: 4
-cover: "images/NEN BUTLLETI.jpg"
+cover: "images/covers/BUTLLETI.jpg"
 logo: images/logos/AFA_BUTLLETI_E LURDES_marca.jpg
 carousel: true
 resources:
@@ -17,3 +17,5 @@ resources:
 
 La informació i el testimoni gràfic de les principals iniciatives escolars, les festes i celebracions o les activitats més importants del curs. Tot això queda recollit gràcies a una comissió històrica, la del Butlletí, que s’encarrega de publicar una revista anual que apropa el dia a dia dels infants a l’escola a les famílies respectives.
 Recomanacions de lectures, passatemps per a l’estiu, temes que puguin ser d'interès per les famílies de l’escola, informació de les activitats extraescolars i altres accions destacades de l’AFA. Tot això també forma part d’aquest butlletí que s’entrega en format revista al final de cada curs perquè cada infant se l’emporti a casa.
+
+Contacte: [elbutlletí@escolalurdes.cat](mailto:elbutlletí@escolalurdes.cat)
