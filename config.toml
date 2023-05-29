@@ -41,6 +41,6 @@ theme = "afa"
     url = "/blog"
     weight = 3
   [[menu.main]]
-    name = "Contacta'ns"
-    url = "/contact"
+    name = "Ampasoft"
+    url = "https://ampalurdes.ampasoft.net/login"
     weight = 4
