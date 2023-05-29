@@ -3,7 +3,7 @@ title: "Comunicació"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 7
+weight: 15
 tag: comms
 cover: "images/covers/COMUNICACIO.jpg"
 logo: "/images/AFA_COMUNICACIO_E-LURDES_marca-1024x452.png"

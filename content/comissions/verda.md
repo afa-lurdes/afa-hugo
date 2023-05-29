@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 tag: eco
-weight: 13
+weight: 14
 cover: "images/covers/VERDA.png"
 logo: "/images/logos/AFA_VERDA_E-LURDES_marca-1024x452.png"
 carousel: true

@@ -3,7 +3,7 @@ title: Grup de Reflexió
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 2
+weight: 20
 logo: /images/logos/AFA_FORMA GRUP REF_E LURDES_marca.jpg
 cover: /images/covers/REFLEXIO.jpg
 description: Grup de Reflexió
