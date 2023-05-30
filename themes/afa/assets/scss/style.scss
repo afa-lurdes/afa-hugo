@@ -94,6 +94,18 @@ figure.floatleft {
     text-align: justify;
     text-justify: auto;
 }
+.service-logo {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .service-logo {
+    width: 50%;
+    display: block;
+   
+  } 
+}
 
 .header {
   background-color: $primary;

@@ -6,7 +6,7 @@
     <div class="col-12 col-md-10">
       <div class="service service-single">
         {{ if .Params.logo}}
-        <img style="height: 280px;" src="{{ .Params.logo | relURL }}">
+        <img class="service-logo" src="{{ .Params.logo | relURL }}">
         {{end}}
         <div class="service-content">
             <p>{{.Content}}</p>
