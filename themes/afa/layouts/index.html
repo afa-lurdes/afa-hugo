@@ -22,9 +22,8 @@
           <div class="carousel-inner">
             
             {{range $index, $image := $carouselImages }}
-
             <div class="carousel-item {{ if eq $index 0}}active{{end}}">
-              <img class="d-block w-100" src="{{$image.src}}?random={{$index}}" alt="First slide">
+              <img class="d-block w-100" style="height:400px; object-fit:fill;" src="{{ $image.src }}" alt="First slide">
             </div>
             {{end}}
             
