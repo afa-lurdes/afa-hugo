@@ -10,10 +10,10 @@ description: Grup de Reflexió
 tag: pray
 
 ---
-És important trobar espais comuns de trobada, amb un mateix i amb els altres. D’això se n’encarrega la Comissió del Grup de Reflexió, formada per un equip de pares i mares que posa aquestes trobades a l’abast de les famílies de l’escola Lurdes. Ho fa a través del Grup de Reflexió i, també des d’aquest any, del Grup d’Interiorització.
+La Comissió del Grup de Reflexió som un grup de pares i mares que volem posar a l'abast de totes les famílies espais intencionals de trobada amb un mateix i amb els altres. Ho fem en col·laboració estreta amb l’escola i a través de dues propostes: el Grup de Reflexió i, des d’aquest any també, el Grup d’Interiorització.
 
-El Grup de Reflexió es reuneix quatre vegades al llarg del curs i compta amb la participaci´ode dos mestres de l’escola. Es tracta de parlar de manera conjunta sobre temes relacionats amb l’educació dels nostres fills i filles, de compartir inquietuds comunes. Per exemple, els problemes per dormir a la nit, la por, el fet de jugar poc amb els amics, tractar temes com la mort d’un familiar o persona propera, o abordar el tema de la sexualitat, entre molts altres temes.
+El Grup de Reflexió ens reunim 4 vegades l'any, junt amb dos mestres de l'escola, per reflexionar sobre temes relacionats amb l'educació dels nostresfills i filles. Compartim inquietuds per trobar eines a reptes com ara; no dorm a la nit, té por, no juga amb els amics, com li parlo de la mort?, no vol compartir les seves coses, com abordar el tema de la sexualitat?, … i una infinitat de situacions. 
 
-Al seu torn, el Grup d’Interiorització es troba regularment per conrear la dimensió més pregona de l’ésser humà: la interioritat. Aquest curs es fa de manera setmanal, durant un trimestre, acompanyats i guiats per la Comunitat Filipense de l’escola.
+El Grup d’Interiorització ens trobem regularment per conrear la dimensió més pregona de l’ésser humà: la interioritat. Enguany ho hem fet setmanalment durant un trimestre, acompanyats i guiats per la Comunitat Filipense de l'escola. 
 
 Contacte: [grupreflexio@escolalurdes.cat](mailto:grupreflexio@escolalurdes.cat)

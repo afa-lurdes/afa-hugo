@@ -4,12 +4,21 @@ meta_title: 'Afa escola Nostra Senyora de Lurdes'
 description: "Benvinguts a la web del Afa de la escola Nostra Senyora de Lurdes"
 carousel: true
 resources:
- - src: /images/carousel/home/1367.jpg
- - src: /images/carousel/home/1423.jpg
- - src: /images/carousel/home/1425.jpg
- - src: /images/carousel/home/FB_LURDES_RRSS_2020_02.jpg
- - src: /images/carousel/home/Foto_esports.jpg
- - src: "/images/carousel/home/reflexio.jpg"
+  - src: images/carousel/home/0cca0b71-32f1-467d-9f61-4479120e7efb (2).JPG
+  - src: images/carousel/home/1063-2.jpg
+  - src: images/carousel/home/1185-2.jpg
+  - src: images/carousel/home/1307.jpg
+  - src: images/carousel/home/20230529_175223.jpg
+  - src: images/carousel/home/C excursions_4 (1).jpeg
+  - src: images/carousel/home/C Excursions_E1A3178.jpg
+  - src: images/carousel/home/ccdccce0-d61d-4ce2-8b2c-70e6f7ce81f1 (2).JPG
+  - src: images/carousel/home/DSC04717.Dimarts.Basquet4.JPG
+  - src: images/carousel/home/Foto_esports.jpg
+  - src: images/carousel/home/Grup Reflexio 2.jpg
+  - src: images/carousel/home/IMG_8173.JPG
+  - src: images/carousel/home/IMG_8379.JPG
+  - src: images/carousel/home/Recapte Aliments.jpg
+  - src: images/carousel/home/resized_DSC_0984.jpg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---

@@ -11,7 +11,7 @@ Els i les vocals són una família representant de cada cicle.
 Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades totes les famílies. Allà s'exposa la feina feta de la junta durant el curs anterior, l'estat dels comptes i es vota les possibles propostes sorgides. A més a més un cop al trimestre la junta es reuneix amb tots els seus components i els representants de cada comissió per tirar endavant les activitats de l'AFA.
 
 
-## JUNTA CURS 2022-2023
+## JUNTA CURS 2023-2024
 |   |   |
 |--------------------|------------------------|
 | __PRESIDENTA__     | Mireia Manén           |
@@ -23,15 +23,15 @@ Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades tot
 
 |   |   |
 |--------------------|---------------------------------------|
-| __DELEGATS P3__    | Menchu Pérez, Joan Servitje           |
-| __DELEGATS P4__    | Lydia Peyrí, Josep Lluís Ortega       |
-| __DELEGATS P5__    | Júlia Vendrell, Adrià Monràs          |
-| __DELEGATS 1r__    | Neus Romo, Jordi Aboy                 |                     
-| __DELEGATS 2n__    | Mariona Ayxelà, Miguel Villota        |                     
-| __DELEGATS 3r__    | Nausica Solà, Martí Santacana         |
-| __DELEGATS 4t__    | Cristina López, José Manuel Novoa     |
-| __DELEGATS 5è__    | Sònia Isidro, Ramon Vilalta           |
-| __DELEGATS 6è__    | Patricia Comín, Jaume Gomà            |
+| __DELEGATS I3__    | Carla Sunyer, Bernat Cervera          |
+| __DELEGATS I4__    | Menchu Pérez, Joan Servitje           |
+| __DELEGATS I5__    | Lydia Peyrí, Josep Lluís Ortega       |
+| __DELEGATS 1r__    | Júlia Vendrell, Adrià Monràs          |
+| __DELEGATS 2n__    | Neus Romo, Jordi Aboy                 |                     
+| __DELEGATS 3r__    | Mariona Ayxelà, Miguel Villota        |                     
+| __DELEGATS 4t__    | Nausica Solà, Martí Santacana         |
+| __DELEGATS 5è__    | Cristina López, José Manuel Novoa     |
+| __DELEGATS 6è__    | Sònia Isidro, Ramon Vilalta           |
 
  
 ## VOCALS
