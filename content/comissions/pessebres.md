@@ -1,12 +1,12 @@
 ---
-title: Pessebre
+title: Pessebres
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
 logo: /images/logos/AFA_PESSEBRES_E LURDES_marca.jpg
 cover: /images/covers/PESSEBRES.jpg
-description: Pessebre
+description: Pessebres
 tag: nativity
 carousel: true
 resources:

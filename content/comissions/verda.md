@@ -25,4 +25,4 @@ Reduir el consum i els residus a través dels programe sde reutilització de lli
 
 Contacte: 
 - [comissióverda@escolalurdes.cat](mailto:comissioverda@escolalurdes.cat)
-- [kangoo](mailto:kangoo@escolalurdes.cat)
+- [kangoo@escolalurdes.catg](mailto:kangoo@escolalurdes.cat)

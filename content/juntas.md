@@ -42,3 +42,7 @@ Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades tot
 | __Cicle Inicial__  | Neus Romo     |       
 | __Cicle Mitjà__    | Nausica Solà  |
 | __Cicle Superior__ | Sònia Isidro  |
+
+## Descarregas
+
+[Acta Assamblea 2023](/documents/Acta_Assemblea_AFA_2023.pdf)

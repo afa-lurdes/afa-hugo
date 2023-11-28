@@ -4,7 +4,7 @@ date: 2023-03-01T14:54:42.607Z
 description: "Treball per retalls per St Jordi"
 tag: solidaria
 image: /images/NEN SOLIIDARIA.jpg
-draft: false
+draft: true
 ---
 
 
