@@ -2,7 +2,7 @@ HUGO_VERSION = "0.80.0"
 [build]
 publish = "public"
 command = """\
-  git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish &&\
+  git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish && \
   hugo --gc --minify \
   """
 
