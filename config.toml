@@ -1,0 +1,46 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Afa Lurdes'
+theme = "afa"
+
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
+
+ [params.logo]
+    mobile = "images/afa_logo.png"
+    mobile_height = "72px"
+    desktop = "images/afa_logo.png"
+    desktop_height = "130px"
+    alt = "Afa Lurdes"
+
+ [params.fonts]
+    # sets the google font link in layouts/partials/google-fonts.html
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Montserrat&display=swap'
+    heading = "Montserrat"
+    base = "Montserrat"
+
+[params.colors]
+    primary = "#ff9070"
+    secondary = "#fff"
+    black = "#2f2f41"
+    white = "#ffffff"
+    white_offset = "#efefef"
+    grey = "#5c5c5c"
+  
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Comissions"
+    url = "/comissions"
+    weight = 2
+  [[menu.main]]
+    name = "Notícies"
+    url = "/blog"
+    weight = 3
+  [[menu.main]]
+    name = "Ampasoft"
+    url = "https://ampalurdes.ampasoft.net/login"
+    weight = 4
