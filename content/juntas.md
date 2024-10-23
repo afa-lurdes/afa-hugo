@@ -12,36 +12,31 @@ Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades tot
 
 
 ## JUNTA CURS 2023-2024
-|   |   |
-|--------------------|------------------------|
-| __PRESIDENTA__     | Mireia Manén           |
-| __VICEPRESIDENTA__ | Laura Vendrell         |
-| __TRESORER__       | Toni Durán-Sindreu     |
-| __SECRETÀRIA__     | Carla Sunyer           |                     
-	
+|                            |                         |
+|----------------------------|-------------------------|
+| __PRESIDENTA__             | Laura Vendrell          |
+| __VICEPRESIDENTA__         | Mar Vila                |
+| __TRESORER__               | Toni Durán-Sindreu      |
+| __SECRETÀRIA__             | Menchu Pérez            | 
+| __VOCAL PARVULARI__        | Joan Servitje           |
+| __VOCAL CICLE INICIAL__    | Júlia Vendrell          |
+| __VOCAL CICLE MITJA__      | Nausica Solà            |
+| __VOCAL CICLE SUPERIOR__   | Cristina López          |
+
 ## DELEGATS
 
 |   |   |
 |--------------------|---------------------------------------|
-| __DELEGATS I3__    | Carla Sunyer, Bernat Cervera          |
-| __DELEGATS I4__    | Menchu Pérez, Joan Servitje           |
-| __DELEGATS I5__    | Lydia Peyrí, Josep Lluís Ortega       |
-| __DELEGATS 1r__    | Júlia Vendrell, Adrià Monràs          |
-| __DELEGATS 2n__    | Neus Romo, Jordi Aboy                 |                     
-| __DELEGATS 3r__    | Mariona Ayxelà, Miguel Villota        |                     
-| __DELEGATS 4t__    | Nausica Solà, Martí Santacana         |
-| __DELEGATS 5è__    | Cristina López, José Manuel Novoa     |
-| __DELEGATS 6è__    | Sònia Isidro, Ramon Vilalta           |
+| __DELEGATS I3__    | Mònica Garcés, Arnau Roca             |
+| __DELEGATS I4__    | Carla Sunyer, Bernat Cervera          |
+| __DELEGATS I5__    | Menchu Pérez, Joan Servitje           |
+| __DELEGATS 1r__    | Lydia Peyrí, Josep Lluís Ortega       |
+| __DELEGATS 2n__    | Júlia Vendrell                        |                     
+| __DELEGATS 3r__    | Anna Elorz Ibáñez, Sergi Montserrat   |                     
+| __DELEGATS 4t__    | Mariona Aixelà, Miguel Bellota        |
+| __DELEGATS 5è__    | Nausica Solà, Martí Santacana         |
+| __DELEGATS 6è__    | Cristina López, José Manuel Novoa     |
 
- 
-## VOCALS
-
-|   |   |
-|--------------------|---------------|
-| __Cicle infantil__ | Menchu Pérez  |
-| __Cicle Inicial__  | Neus Romo     |       
-| __Cicle Mitjà__    | Nausica Solà  |
-| __Cicle Superior__ | Sònia Isidro  |
 
 ## Descarregas
 
