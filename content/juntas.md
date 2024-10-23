@@ -11,7 +11,7 @@ Els i les vocals són una família representant de cada cicle.
 Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades totes les famílies. Allà s'exposa la feina feta de la junta durant el curs anterior, l'estat dels comptes i es vota les possibles propostes sorgides. A més a més un cop al trimestre la junta es reuneix amb tots els seus components i els representants de cada comissió per tirar endavant les activitats de l'AFA.
 
 
-## JUNTA CURS 2023-2024
+## JUNTA CURS 2024-2025
 |                            |                         |
 |----------------------------|-------------------------|
 | __PRESIDENTA__             | Laura Vendrell          |
