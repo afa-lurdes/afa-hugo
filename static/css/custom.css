@@ -16,3 +16,14 @@
 .contacts > ul {
 	margin-left: 5px;
 }
+
+.player-container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.player {
+	flex-basis: 80%;
+	padding:56.25% 0 0 0;
+}
