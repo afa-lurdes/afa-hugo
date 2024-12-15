@@ -18,10 +18,21 @@
 }
 
 .player-container {
-  height: 100vh;
-  display: flex;
-  justify-content: space-between;
-}
+	
+		height: 0;
+		overflow: hidden;
+		padding-bottom: 56.25%;
+		padding-top: 30px;
+		position: relative;
+		}
+.player-container iframe, .video-responsive object, .video-responsive embed {
+		height: 100%;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 100%;
+		}
+
 
 .player {
 	flex-basis: 80%;
