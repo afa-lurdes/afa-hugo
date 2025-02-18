@@ -2,82 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/comissions/angles/</loc>
+    <loc>http://example.org/comissions/angles/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/biblioteca/</loc>
+    <loc>http://example.org/comissions/biblioteca/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/pessebres/</loc>
+    <loc>http://example.org/comissions/pessebres/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/esports/</loc>
+    <loc>http://example.org/comissions/esports/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/butlleti/</loc>
+    <loc>http://example.org/comissions/butlleti/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/genere/</loc>
+    <loc>http://example.org/comissions/genere/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/casals/</loc>
+    <loc>http://example.org/comissions/casals/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/solidaria/</loc>
+    <loc>http://example.org/comissions/solidaria/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/colonies/</loc>
+    <loc>http://example.org/comissions/colonies/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/conferencies/</loc>
+    <loc>http://example.org/comissions/conferencies/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/coral/</loc>
+    <loc>http://example.org/comissions/coral/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/excursions/</loc>
+    <loc>http://example.org/comissions/excursions/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/economica/</loc>
+    <loc>http://example.org/comissions/economica/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/verda/</loc>
+    <loc>http://example.org/comissions/verda/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/comunicacio/</loc>
+    <loc>http://example.org/comissions/comunicacio/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/grup_reflexio/</loc>
+    <loc>http://example.org/comissions/grup_reflexio/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2025-02-17T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/20250217-pessebre/</loc>
+    <lastmod>2025-02-17T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/undefined/</loc>
+    <lastmod>2025-02-17T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2025-02-17T18:37:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/122024_apadrina/</loc>
     <lastmod>2024-12-12T14:54:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-12-12T14:54:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/122024_apadrina/</loc>
-    <lastmod>2024-12-12T14:54:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/112023_biblioteca/</loc>
+    <loc>http://example.org/blog/112023_biblioteca/</loc>
     <lastmod>2023-09-01T14:54:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/092023_reflexio/</loc>
+    <loc>http://example.org/blog/092023_reflexio/</loc>
     <lastmod>2023-09-01T14:54:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comissions/</loc>
+    <loc>http://example.org/comissions/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/juntas/</loc>
+    <loc>http://example.org/comissions/solidaria/apadrina/</loc>
   </url><url>
-    <loc>http://localhost:1313/comissions/solidaria/apadrina/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://example.org/comissions/esports/horari/</loc>
   </url><url>
-    <loc>http://localhost:1313/comissions/esports/horari/</loc>
+    <loc>http://example.org/comissions/esports/monitores/</loc>
   </url><url>
-    <loc>http://localhost:1313/comissions/esports/monitores/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>

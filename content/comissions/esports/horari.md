@@ -4,14 +4,14 @@ title: Horari
 subpage: true
 ---
 
-[Esports i Dansa](/comissions/esports) > Horari i Quotes 2023/2024
+[Esports i Dansa](/comissions/esports) > Horari i Quotes 2024/2025
 
 
 <div>
     <table class="horari">
         <thead>
             <tr>
-                <td>Horaris 2023/2024</td>
+                <td>Horaris 2024/2024</td>
                 <td>Dilluns</td>
                 <td>Dimarts</td>
                 <td>Dimecres</td>

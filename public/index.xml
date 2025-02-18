@@ -2,171 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Afa Lurdes</title>
-    <link>http://localhost:1313/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Afa Lurdes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2024 14:54:42 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 18:37:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anglès</title>
-      <link>http://localhost:1313/comissions/angles/</link>
+      <link>http://example.org/comissions/angles/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/angles/</guid>
+      <guid>http://example.org/comissions/angles/</guid>
       <description>Aconseguir que l’alumnat de l’escola Lurdes aprengui anglès de manera natural, aprofitant els seus recursos innats. Aquest és l’objectiu de Kids&amp;amp;Us Gràcia, que s’encarrega d’oferir l’activitat extraescolar d’anglès. Es tracta que els infants tinguin un contacte amb l’anglès real des del primer dia, sense adaptacions ni omissions, per tal que el seu aprenentatge sigui global. És a dir, que siguin capaços de comunicar-se, tinguin una bona pronunciació i desenvolupin una bona comprensió.</description>
     </item>
     <item>
       <title>Biblioteca</title>
-      <link>http://localhost:1313/comissions/biblioteca/</link>
+      <link>http://example.org/comissions/biblioteca/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/biblioteca/</guid>
+      <guid>http://example.org/comissions/biblioteca/</guid>
       <description>Fomentar l’hàbit i el gust per la lectura és la missió d’aquesta comissió. Conscienciar sobre la seva importància com a eina intel·lectual i emocional imprescindible en l’educació dels nostres fills.&#xA;I això ho fa organitzant activitats relacionades amb els llibres fora de l’horari escolar, per a les famílies i els infants com són: la “Biblioteca Oberta” (d’obren les portes de la biblioteca de Lurdes a les famílies diferents dies de l’any), el “Cafè i llibres” (xerrades amb algun expert en Literatura Infantil i Juvenil), “Contes del Món” (conta-contes dut a terme per pares o mares de l’escola procedents d’altres països), o el “Grup de folrat de llibres”.</description>
     </item>
     <item>
       <title>Pessebres</title>
-      <link>http://localhost:1313/comissions/pessebres/</link>
+      <link>http://example.org/comissions/pessebres/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/pessebres/</guid>
+      <guid>http://example.org/comissions/pessebres/</guid>
       <description>Aquesta és una de les comissions històriques de l’escola Lurdes, creada per fomentar la tradició del pessebre d’una manera creativa entre els nens i nenes, organitzant cada any el Concurs de Pessebres, dirigit a l’alumnat de 3r fins a 6è.&#xA;De forma individual o en grup els nens poden participar en el concurs tot elaborant un pessebre que posarà a prova les seves habilitats manuals i artístiques. I també el treball en equip!</description>
     </item>
     <item>
       <title>Esports</title>
-      <link>http://localhost:1313/comissions/esports/</link>
+      <link>http://example.org/comissions/esports/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/esports/</guid>
+      <guid>http://example.org/comissions/esports/</guid>
       <description>Vetllar perquè totes les activitats tinguin un bon funcionament, en contacte continuat amb els coordinadors i aquests amb els monitors que gestionen cada una de les activitats.&#xA;La comissió d’esports i dansa de l’AFA s’ocupa de l’organització de les activitats extraescolars esportives i de dansa de l’escola, des de P3 fins a 6è: natació, pre-iniciació i iniciació a l’esport, dansa, escacs, tennis taula, bàsquet i futbol sala.&#xA;Està formada per un grup de mares i pares voluntaris, un equip de coordinació d’esports pel dia a dia i una vintena de monitors i monitores per a totes les de totes les activitats.</description>
     </item>
     <item>
       <title>Butlletí</title>
-      <link>http://localhost:1313/comissions/butlleti/</link>
+      <link>http://example.org/comissions/butlleti/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/butlleti/</guid>
+      <guid>http://example.org/comissions/butlleti/</guid>
       <description>La informació i el testimoni gràfic de les principals iniciatives escolars, les festes i celebracions o les activitats més importants del curs. Tot això queda recollit gràcies a una comissió històrica, la del Butlletí, que s’encarrega de publicar una revista anual que apropa el dia a dia dels infants a l’escola a les famílies respectives. Recomanacions de lectures, passatemps per a l’estiu, temes que puguin ser d&amp;rsquo;interès per les famílies de l’escola, informació de les activitats extraescolars i altres accions destacades de l’AFA.</description>
     </item>
     <item>
       <title>Gènere</title>
-      <link>http://localhost:1313/comissions/genere/</link>
+      <link>http://example.org/comissions/genere/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/genere/</guid>
+      <guid>http://example.org/comissions/genere/</guid>
       <description>Aquesta comissió va néixer amb l’objectiu de promoure la igualtat de gènere a la comunitat educativa, mitjançant diverses activitats i accions de sensibilització que es desenvolupen al llarg del curs, com pot ser la commemoració de dates assenyalades com el 8M (Dia internacional de la dona) o el 25N (Dia internacional per l’eliminació de la violència contra les dones). També ha dut a terme xerrades, tallers o exposicions sobre educació sexual, la dona i la ciència, abusos sexuals a menors o contes sense etiquetes, per citar només alguns exemples.</description>
     </item>
     <item>
       <title>Casals Estiu</title>
-      <link>http://localhost:1313/comissions/casals/</link>
+      <link>http://example.org/comissions/casals/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/casals/</guid>
+      <guid>http://example.org/comissions/casals/</guid>
       <description>Quan s’acosten les vacances d’estiu moltes famílies busquen alternatives perquè els petits de la casa es diverteixin durant el període no lectiu. D’això, precisament, se n’ocupa la Comissió del Casal d’Estiu de l’escola Lurdes. Aquesta activitat, que s’organitza des del curs 2011-12, s’adreça als infants des d’I3 fins a 2n de primària, i s’emmarca en el mèdote de l’educació en el lleure. És a dir, sense ser un centre d’ensenyament, el casal manté la filosofia de l’escola i els valors que s’han tractat durant el curs escolar, que seran una dinàmica present i constant: tan important és aprendre a llegir, a escriure i a sumar, com aprendre a jugar, a escoltar, a conviure i a divertir-se.</description>
     </item>
     <item>
       <title>Solidaria</title>
-      <link>http://localhost:1313/comissions/solidaria/</link>
+      <link>http://example.org/comissions/solidaria/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/solidaria/</guid>
+      <guid>http://example.org/comissions/solidaria/</guid>
       <description>Com el seu nom indica, la Comissió Solidària té per objectiu aquells projectes que busquen ajudar els que més ho necessiten, i que s’organitzen conjuntament amb l’escola Lurdes. Un dels més destacats és el Recapte d’Aliments per Nadal. També destaca la paradeta de Sant Jordi amb la venda de llibres reutilitzats, o l’artesania de Cucharitas Solidarias, amb la intenció de fomentar l‘esperit d’ajuda als altres tant als alumnes com a les seves famílies.</description>
     </item>
     <item>
       <title>Colònies</title>
-      <link>http://localhost:1313/comissions/colonies/</link>
+      <link>http://example.org/comissions/colonies/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/colonies/</guid>
+      <guid>http://example.org/comissions/colonies/</guid>
       <description>Si s’acosta l’estiu i els infants cursen entre 3r i 6è… això vol dir que toca anar de colònies! La Comissió de Colònies s’encarrega d’organitzar aquesta estada, que per als infants de 3r i 4t és a Can Montcau (La Roca del Vallès, Vallès Oriental) i per als de 5è i 6è a Cal Diable (Pontons, Alt Penedès). Es tracta de dues cases de colònies que treballen amb l’escola Lurdes des de fa molts anys.</description>
     </item>
     <item>
       <title>Conferències</title>
-      <link>http://localhost:1313/comissions/conferencies/</link>
+      <link>http://example.org/comissions/conferencies/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/conferencies/</guid>
+      <guid>http://example.org/comissions/conferencies/</guid>
       <description>Durant la criança dels infants, i en especial a la franja d’edat en què estan a l’escola Lurdes (dels 3 als 12 anys), apareixen moltes inquietuds als pares, mares i famílies. De donar-ne resposta, se n’encarrega la Comissió de Conferències, a través de xerrades trimestrals. El centre d’aquestes conferències són les temes emocionals, d’aprenentatge, relacionats amb l’ús i l’abús de les pantalles… I s’encarreguen a ponents qualificats, que sàpiguen expressar-se i siguin autoritats en la matèria que es tracta.</description>
     </item>
     <item>
       <title>Coral</title>
-      <link>http://localhost:1313/comissions/coral/</link>
+      <link>http://example.org/comissions/coral/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/coral/</guid>
+      <guid>http://example.org/comissions/coral/</guid>
       <description>El Cor la Fontana és la coral d’adults de l’escola Lurdes. Hi canten, amb molt de goig, pares, mares, avis, tiets,… dels nens i nenes d’ara o dels nens i nenes que han passat abans per l’escola. Es troben a Lurdes els dijous del curs escolar, de 20:30 a 22:30. No calen coneixements musicals, només veu, oïda i ganes de cantar i gaudir plegats.&#xA;El nostre repertori inclou peces corals de totes les èpoques i estils, entre elles: Glòria d’A.</description>
     </item>
     <item>
       <title>Excursions</title>
-      <link>http://localhost:1313/comissions/excursions/</link>
+      <link>http://example.org/comissions/excursions/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/excursions/</guid>
+      <guid>http://example.org/comissions/excursions/</guid>
       <description>Cada any s’organitza una sortida d’un dia oberta a totes les famílies de l’escola. Es tracta de passar un dia plegats i poder gaudir tranquil·lament d’estar junts sense les presses que acompanyen el dia a dia. Aquesta cita anual, anomenada “Botifarrada” s’acostuma a realitzar al mes de maig a la Casa de l’Espiritualitat Marc Castanyer a Hostalets de Balenyà.&#xA;Es fa un pícnic, jocs pels nens i nenes, concurs de pastissos… Tot plegat per tal de fomentar de convivència entre les famílies de la nostra escola.</description>
     </item>
     <item>
       <title>Economica</title>
-      <link>http://localhost:1313/comissions/economica/</link>
+      <link>http://example.org/comissions/economica/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/economica/</guid>
+      <guid>http://example.org/comissions/economica/</guid>
       <description>Per fer totes les activitats que fa l’AFA i que els números quadrin hi ha una comissió de pares i mares que vetlla per la sostenibilitat econòmica de l’associació. Amb el suport d’una gestoria laboral i comptable, es fa el seguiment anual d’ingressos i despeses, contractació de monitors, control de tresoreria, etc. Potser no és la feina més agraïda però del tot necessària per fer rutllar l’AFA!&#xA;Contacte:&#xA;tresorer@escolalurdes.cat </description>
     </item>
     <item>
       <title>Verda</title>
-      <link>http://localhost:1313/comissions/verda/</link>
+      <link>http://example.org/comissions/verda/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/verda/</guid>
+      <guid>http://example.org/comissions/verda/</guid>
       <description>Encaminar l’escola cap a un model més sa i sostenible. Aquesta és la missió de la Comissió Verda, creada el 2017, i que des de llavors s’ha centrat en fomentar un camí escolar més actiu, saludable i segur per als nostres infants.&#xA;Una fita que s’ha aconseguit conjuntament amb l’escola Lurdes i amb el Districte, a través de programes com el Camí Escolar o la implementació del carnet Kangoo per fer seguiment de l’accés dels infants a partir de 8 anys (2020).</description>
     </item>
     <item>
       <title>Comunicació</title>
-      <link>http://localhost:1313/comissions/comunicacio/</link>
+      <link>http://example.org/comissions/comunicacio/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/comunicacio/</guid>
+      <guid>http://example.org/comissions/comunicacio/</guid>
       <description>La comissió que s’encarrega de fer arribar la informació d’allò que fa l’AFA a les famílies de l’escola, ja sigui mitjançant la web, newsletters informatius, cartells, vídeos o tot el que se’ns pugui ocórrer en cada moment.&#xA;Contacte: comunicacio@escolalurdes.cat</description>
     </item>
     <item>
       <title>Grup de Reflexió</title>
-      <link>http://localhost:1313/comissions/grup_reflexio/</link>
+      <link>http://example.org/comissions/grup_reflexio/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/comissions/grup_reflexio/</guid>
+      <guid>http://example.org/comissions/grup_reflexio/</guid>
       <description>La Comissió del Grup de Reflexió som un grup de pares i mares que volem posar a l&amp;rsquo;abast de totes les famílies espais intencionals de trobada amb un mateix i amb els altres. Ho fem en col·laboració estreta amb l’escola i a través de dues propostes: el Grup de Reflexió i, des d’aquest any també, el Grup d’Interiorització.&#xA;El Grup de Reflexió ens reunim 4 vegades l&amp;rsquo;any, junt amb dos mestres de l&amp;rsquo;escola, per reflexionar sobre temes relacionats amb l&amp;rsquo;educació dels nostresfills i filles.</description>
     </item>
     <item>
+      <title>El concurso de pessebre</title>
+      <link>http://example.org/blog/20250217-pessebre/</link>
+      <pubDate>Mon, 17 Feb 2025 18:37:00 +0000</pubDate>
+      <guid>http://example.org/blog/20250217-pessebre/</guid>
+      <description>El concurso de pessebre</description>
+    </item>
+    <item>
+      <title>El concurso de pessebre</title>
+      <link>http://example.org/blog/undefined/</link>
+      <pubDate>Mon, 17 Feb 2025 18:37:00 +0000</pubDate>
+      <guid>http://example.org/blog/undefined/</guid>
+      <description>El concurso de pessebre</description>
+    </item>
+    <item>
       <title>Projecte APADRINA LURDES 2024</title>
-      <link>http://localhost:1313/blog/122024_apadrina/</link>
+      <link>http://example.org/blog/122024_apadrina/</link>
       <pubDate>Thu, 12 Dec 2024 14:54:42 +0000</pubDate>
-      <guid>http://localhost:1313/blog/122024_apadrina/</guid>
+      <guid>http://example.org/blog/122024_apadrina/</guid>
       <description>Ajudan’s a que cap infant de l’escola Lurdes es quedi sense gaudir d’una excursió, d’un dinar, el material que necessita, de les colonies de tres dies. Perque #totssomlurdes </description>
     </item>
     <item>
       <title>Activitats de la commissió Biblioteca 2022-2023</title>
-      <link>http://localhost:1313/blog/112023_biblioteca/</link>
+      <link>http://example.org/blog/112023_biblioteca/</link>
       <pubDate>Fri, 01 Sep 2023 14:54:42 +0000</pubDate>
-      <guid>http://localhost:1313/blog/112023_biblioteca/</guid>
+      <guid>http://example.org/blog/112023_biblioteca/</guid>
       <description>La Comissió de Biblioteca enriquix la cultura lectora a l&amp;rsquo;escola mitjançant activitats com Biblioteca Oberta, Contes del Món i Cafè i llibres&#xA;Biblioteca Oberta curs 22-23 Com cada any, la Comissió ha organitzat l&amp;rsquo;activitat de Biblioteca Oberta. Enguany han estat un total de cinc sessions en les quals els alumnes i famílies de l&amp;rsquo;escola, han pogut conèixer una mica millor la nostra Biblioteca.&#xA;Aquesta activitat es planteja simplement com això, una visita a la biblioteca, per descobrir el seu important fons de literatura infantil i juvenil.</description>
     </item>
     <item>
       <title>Donem el tret de sortida al Grup d’Interiorització</title>
-      <link>http://localhost:1313/blog/092023_reflexio/</link>
+      <link>http://example.org/blog/092023_reflexio/</link>
       <pubDate>Fri, 01 Sep 2023 14:54:42 +0000</pubDate>
-      <guid>http://localhost:1313/blog/092023_reflexio/</guid>
+      <guid>http://example.org/blog/092023_reflexio/</guid>
       <description>Des de la Comissió del Grup de Reflexió ens mou poder generar espais de trobada intencionals i conscients entre les persones. Com sabeu, la interiorització és un dels pilars de l’escola i els nostres fills i filles hi dediquen una estona cada matí. Nosaltres sempre ens hem sentit atretes per aquesta part del currículum, i durant els últims anys, gràcies a la facilitació dels mestres de l&amp;rsquo;escola a l&amp;rsquo;inici de cada sessió del Grup de Reflexió, hem pogut experimentar, com tenir l’oportunitat de connectar endins abans de connectar enfora, ens dona un lloc de partida diferent i genera un espai de trobada més ric.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/juntas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/juntas/</guid>
-      <description>L&amp;rsquo;AFA està estructurada per la junta directiva, les famílies delegades de curs i els i les vocals de cada cicle.&#xA;La Junta directiva s&amp;rsquo;encarrega de dirigir tota la gestió administrativa, econòmica i organitzativa de l&amp;rsquo;associació de manera voluntària.&#xA;Cada dos anys es fa la renovació dels càrrecs per votació a l&amp;rsquo;Assemblea. Cada candidat/a la presidència està dos anys com a vicepresident/a i dos anys com a president/a per assegurar-ne un bon traspàs.</description>
-    </item>
-    <item>
       <title>Apadrina Lurdes</title>
-      <link>http://localhost:1313/comissions/solidaria/apadrina/</link>
+      <link>http://example.org/comissions/solidaria/apadrina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/comissions/solidaria/apadrina/</guid>
+      <guid>http://example.org/comissions/solidaria/apadrina/</guid>
       <description>Solidaria &amp;gt; Apadrina Lurdes&#xA;Projecte per aconseguir aportacions econòmiques durant el curs escolar amb l’ objectiu que tots els nens i nenes de la nostra escola puguin tenir les mateixes oportunitats de formació i desenvolupament, sense que les dificultats econòmiques en siguin la limitació.&#xA;Es necessiten uns 10.000 Euros anuals per cobrir les necessitats de les famílies afectades. En concret les ajudes es destinen a material, menjador i excursions escolars d`alumnes de famílies amb necessitats econòmiques.</description>
     </item>
     <item>
       <title>Horari</title>
-      <link>http://localhost:1313/comissions/esports/horari/</link>
+      <link>http://example.org/comissions/esports/horari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/comissions/esports/horari/</guid>
-      <description>Esports i Dansa &amp;gt; Horari i Quotes 2023/2024&#xA;Horaris 2023/2024 Dilluns Dimarts Dimecres Dijous Divendres 17:00 - 18:00 h Pre-Iniciació a l&#39;Esports (I4) Iniciació a l&#39;Esports (I5 i 1r) Iniciació a la Dansa (I4) Iniciació a l&#39;Esports (I5 i 1r) Piscina 15:45 a 18:45 (La Salle - Bonanova) Dansa (I5 i 1r) Futbol (2n) Bàsquet (2n) Futbol (2n) Escacs 16 a 17:15 (a partir de 2n) Basquet (2n) &amp;nbsp; &amp;nbsp; &amp;nbsp; Tennis Taula 16 a 17:15 (a partir de 2n) 17:15- 18:15 h &amp;nbsp; Escacs &amp;nbsp; &amp;nbsp; &amp;nbsp; 17:15 - 18:45 h Bàsquet (4t) Bàsquet (3r) Bàsquet (4t) Bàsquet (3r) &amp;nbsp; Futbol (4t) Futbol (3r) Futbol (4t) Futbol (3r) &amp;nbsp; 18:30 - 19:30 h Bàsquet (5è) Bàsquet (6è) Bàsquet (5è) Bàsquet (6è) &amp;nbsp; Futbol (6è) Futbol (5è) Futbol (6è) Futbol (5è) &amp;nbsp; 20:00 - 21:00 h Tennis Taula Families &amp;nbsp; &amp;nbsp; Bàsquet Famílies &amp;nbsp; 21:00 - 22:00 h Futbol Famîlies &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; </description>
+      <guid>http://example.org/comissions/esports/horari/</guid>
+      <description>Esports i Dansa &amp;gt; Horari i Quotes 2024/2025&#xA;Horaris 2024/2024 Dilluns Dimarts Dimecres Dijous Divendres 17:00 - 18:00 h Pre-Iniciació a l&#39;Esports (I4) Iniciació a l&#39;Esports (I5 i 1r) Iniciació a la Dansa (I4) Iniciació a l&#39;Esports (I5 i 1r) Piscina 15:45 a 18:45 (La Salle - Bonanova) Dansa (I5 i 1r) Futbol (2n) Bàsquet (2n) Futbol (2n) Escacs 16 a 17:15 (a partir de 2n) Basquet (2n) &amp;nbsp; &amp;nbsp; &amp;nbsp; Tennis Taula 16 a 17:15 (a partir de 2n) 17:15- 18:15 h &amp;nbsp; Escacs &amp;nbsp; &amp;nbsp; &amp;nbsp; 17:15 - 18:45 h Bàsquet (4t) Bàsquet (3r) Bàsquet (4t) Bàsquet (3r) &amp;nbsp; Futbol (4t) Futbol (3r) Futbol (4t) Futbol (3r) &amp;nbsp; 18:30 - 19:30 h Bàsquet (5è) Bàsquet (6è) Bàsquet (5è) Bàsquet (6è) &amp;nbsp; Futbol (6è) Futbol (5è) Futbol (6è) Futbol (5è) &amp;nbsp; 20:00 - 21:00 h Tennis Taula Families &amp;nbsp; &amp;nbsp; Bàsquet Famílies &amp;nbsp; 21:00 - 22:00 h Futbol Famîlies &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; </description>
     </item>
     <item>
       <title>Monitors</title>
-      <link>http://localhost:1313/comissions/esports/monitores/</link>
+      <link>http://example.org/comissions/esports/monitores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/comissions/esports/monitores/</guid>
+      <guid>http://example.org/comissions/esports/monitores/</guid>
       <description>Equip de monitors Benvinguts a la pàgina web del servei de voluntariat per a les activitats esportives extraescolars per a nens i nenes. El nostre servei està dissenyat per ajudar les famílies a facilitar l&amp;rsquo;assistència dels seus fills i filles a les activitats esportives, amb l&amp;rsquo;ajuda dels nostres voluntaris.&#xA;La nostra estructura de voluntariat està formada per diferents rols que treballen junts per assegurar que els nens i nenes estiguin ben acompanyats i segurs durant les activitats esportives.</description>
     </item>
   </channel>
