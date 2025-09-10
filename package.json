@@ -1,0 +1,27 @@
+{
+  "name": "afa-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "sanity:fetch": "node scripts/fetch-sanity-content.js",
+    "sanity:studio": "sanity start",
+    "sanity:migrate": "node scripts/migrate-to-sanity.js",
+    "build": "npm run sanity:fetch && hugo",
+    "dev": "hugo server -D",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/cli": "^4.6.1",
+    "@sanity/client": "^7.11.0",
+    "@sanity/vision": "^4.6.1",
+    "dotenv": "^17.2.2",
+    "gray-matter": "^4.0.3",
+    "sanity": "^4.6.1",
+    "styled-components": "^6.1.19"
+  }
+}

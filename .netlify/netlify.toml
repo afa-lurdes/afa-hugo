@@ -1,0 +1,33 @@
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[[plugins]]
+origin = "config"
+package = "/plugins/netlify-sanity-md"
+
+[plugins.inputs]
+
+[build]
+publish = "/Users/matteo/work/afa-hugo/public"
+publishOrigin = "ui"
+commandOrigin = "ui"
+command = "hugo"
+
+[build.environment]
+HUGO_VERSION = "0.80.0"
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]

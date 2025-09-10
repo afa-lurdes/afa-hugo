@@ -51,10 +51,13 @@
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-12T14:54:42+00:00</lastmod>
+    <lastmod>2025-09-10T04:55:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-12-12T14:54:42+00:00</lastmod>
+    <lastmod>2025-09-10T04:55:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/sanity/test-sanity-cms/</loc>
+    <lastmod>2025-09-10T04:55:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/122024_apadrina/</loc>
     <lastmod>2024-12-12T14:54:42+00:00</lastmod>
@@ -64,6 +67,12 @@
   </url><url>
     <loc>http://localhost:1313/blog/092023_reflexio/</loc>
     <lastmod>2023-09-01T14:54:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/paradeta/</loc>
+    <lastmod>2023-03-01T14:54:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/esports/</loc>
+    <lastmod>2022-09-25T14:54:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/comissions/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>

@@ -11,3 +11,22 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Node modules and dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Sanity build files
+dist/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
