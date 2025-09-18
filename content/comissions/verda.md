@@ -24,5 +24,5 @@ Una fita que s’ha aconseguit conjuntament amb l’escola Lurdes i amb el Distr
 Reduir el consum i els residus a través dels programe sde reutilització de llibres i roba d’escola és una altra de les preocupacions de la Comissió Verda, així com altres projectes relacionats amb la salut i la sostenibilitat, com per exemple els Menjadors escolars més sans i sostenibles.
 
 Contacte: 
-- [comissióverda@escolalurdes.cat](mailto:comissioverda@escolalurdes.cat)
-- [kangoo@escolalurdes.catg](mailto:kangoo@escolalurdes.cat)
+- [comissioerda@escolalurdes.cat](mailto:comissioverda@escolalurdes.cat)
+- [kangoo@escolalurdes.cat](mailto:kangoo@escolalurdes.cat)
