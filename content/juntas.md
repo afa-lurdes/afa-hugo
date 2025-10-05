@@ -27,15 +27,15 @@ Al mes de novembre es celebra l'Assemblea anual de l'AFA on estan convidades tot
 
 |   |   |
 |--------------------|---------------------------------------|
-| __DELEGATS I3__    | Mònica Garcés, Arnau Roca             |
-| __DELEGATS I4__    | Carla Sunyer, Bernat Cervera          |
-| __DELEGATS I5__    | Menchu Pérez, Joan Servitje           |
-| __DELEGATS 1r__    | Lydia Peyrí, Josep Lluís Ortega       |
-| __DELEGATS 2n__    | Júlia Vendrell                        |                     
-| __DELEGATS 3r__    | Anna Elorz Ibáñez, Sergi Montserrat   |                     
-| __DELEGATS 4t__    | Mariona Aixelà, Miguel Bellota        |
-| __DELEGATS 5è__    | Nausica Solà, Martí Santacana         |
-| __DELEGATS 6è__    | Cristina López, José Manuel Novoa     |
+| __DELEGATS I3__    | Luisa Murcia, Xavier Rovira           |
+| __DELEGATS I4__    | Mònica Garcés, Arnau Roca             |
+| __DELEGATS I5__    | Carla Sunyer, Bernat Cervera          |
+| __DELEGATS 1r__    | Menchu Pérez, Joan Servitje.          |
+| __DELEGATS 2n__    | Lydia Peyrí, Josep Lluís Ortega                        |                     
+| __DELEGATS 3r__    | Júlia Vendrell                      |                     
+| __DELEGATS 4t__    | Anna Elorz Ibáñez, Sergi Montserrat   |
+| __DELEGATS 5è__    | Mariona Aixelà, Miguel Bellota        |
+| __DELEGATS 6è__    | Nausica Solà, Martí Santacana     |
 
 
 ## Descarregas

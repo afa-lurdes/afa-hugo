@@ -11,7 +11,7 @@ subpage: true
     <table class="horari">
         <thead>
             <tr>
-                <td>Horaris 2023/2024</td>
+                <td>Horaris 2025/2026</td>
                 <td>Dilluns</td>
                 <td>Dimarts</td>
                 <td>Dimecres</td>
@@ -26,21 +26,21 @@ subpage: true
                 <td class="yellow">Iniciació a l'Esports (I5 i 1r)</td>
                 <td class="red">Iniciació a la Dansa (I4)</td>
                 <td class="yellow">Iniciació a l'Esports (I5 i 1r)</td>
-                <td class="dark-blue">Piscina 15:45 a 18:45 (La Salle - Bonanova)</td>
+                <td class="dark-blue">Piscina 15:45 a 18:45 (La Salle - Piscina)</td>
             </tr>
             <tr>
-                <td class="red">Dansa (I5 i 1r)</td>
+                <td class="light-green">Basquet (2n)</td>
                 <td class="light-purple">Futbol (2n)</td>
                 <td class="light-green">Bàsquet (2n)</td>
                 <td class="light-purple">Futbol (2n)</td>
                 <td class="light-blue">Escacs 16 a 17:15 (a partir de 2n)</td>
             </tr>
             <tr>
-                <td class="light-green">Basquet (2n)</td>
+                <td class="red">Dansa (I5-1r)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td class="dark-yellow">Tennis Taula 16 a 17:15 (a partir de 2n)</td>
+                <td class="dark-yellow">Tennis Taula 16 a 17:15 (a partir de 2n) *</td>
             </tr>
             <tr>
                 <td class="first">17:15- 18:15 h</td>
@@ -48,15 +48,15 @@ subpage: true
                 <td class="light-blue">Escacs</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td class="dark-yellow">Taller de Voleibol 16 - 17:15</td>
             </tr>
             <tr>
                 <td class="first"  rowspan="2">17:15 - 18:45 h</td>
-                <td class="light-green">Bàsquet (4t)</td>
                 <td class="light-green">Bàsquet (3r)</td>
                 <td class="light-green">Bàsquet (4t)</td>
                 <td class="light-green">Bàsquet (3r)</td>
-                <td>&nbsp;</td>
+                <td class="light-green">Bàsquet (4t)</td>
+                <td>* Torns a definir</td>
             </tr>
             <tr>
                 <td class="light-purple">Futbol (4t)</td>
@@ -67,10 +67,10 @@ subpage: true
             </tr>
             <tr>
                 <td class="first"  rowspan="2">18:30 - 19:30 h</td>
-                <td class="light-green">Bàsquet (5è)</td>
                 <td class="light-green">Bàsquet (6è)</td>
                 <td class="light-green">Bàsquet (5è)</td>
                 <td class="light-green">Bàsquet (6è)</td>
+                <td class="light-green">Bàsquet (5è)</td>
                 <td>&nbsp;</td>
             </tr>
              <tr>
@@ -82,10 +82,10 @@ subpage: true
             </tr>
             <tr>
                 <td class="first">20:00 - 21:00 h</td>
-                <td class="pink">Tennis Taula Families</td>
+                <td class="pink">Tennis Taula Famílies</td>
+                <td class="pink">Bàsquet Famílies - Ioga Famílies</td>
+                <td class="pink">Vòlei Famílies</td>
                 <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td class="pink">Bàsquet Famílies</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -101,4 +101,4 @@ subpage: true
 </div>
 
 
-{{<figure src="/documents/comissions/esports/2023/Esports2023_24.png" width="100%">}}
+{{<figure src="/documents/comissions/esports/2025/Esports2025_26.png" width="100%">}}

@@ -19,7 +19,7 @@ resources:
 
 ---
 
-Cada any s’organitza una sortida d’un dia oberta a totes les famílies de l’escola. Es tracta de passar un dia plegats i poder gaudir tranquil·lament d’estar junts sense les presses que acompanyen el dia a dia. Aquesta cita anual, anomenada “Botifarrada” s’acostuma a realitzar al mes de maig a la Casa de l’Espiritualitat Marc Castanyer a Hostalets de Balenyà.
+Cada any s’organitza una sortida d’un dia oberta a totes les famílies de l’escola. Es tracta de passar un dia plegats i poder gaudir tranquil·lament d’estar junts sense les presses que acompanyen el dia a dia. Aquesta cita anual, anomenada “Botifarrada” s’acostuma a realitzar al mes de maig a una casa de colònies.
 
 Es fa un pícnic, jocs pels nens i nenes, concurs de pastissos… Tot plegat per tal de fomentar de convivència entre les famílies de la nostra escola.
 
